@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MultiATSM"]
 	path = MultiATSM
-	url = https://github.com/rubensmoura87/multiatsm
+	url = https://github.com/cran/MultiATSM
